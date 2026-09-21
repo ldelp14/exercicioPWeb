@@ -1,0 +1,10 @@
+.textBlue{
+    color: #0b2545;
+    font-weight: bold;
+}
+
+.card {
+  width: 100%;
+  max-width: 380px;
+  margin: 0 auto;   
+}
